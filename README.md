@@ -29,7 +29,8 @@
 </html> 
 
 
-### <h2>Exercise</h2>
+
+<h2>Exercise</h2>
           <p>Write the code necessary to do the following:</p>
           <ol class="arabic simple">
             <li>
