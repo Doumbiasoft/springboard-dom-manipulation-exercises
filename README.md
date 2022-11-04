@@ -1,5 +1,5 @@
 # Springboard-dom-manipulation-exercises
-
+## DOM manipulation
 #### Given the following HTML:
 
 <div class="highlight"><pre><span></span><span class="cp">&lt;!DOCTYPE html&gt;</span>
