@@ -1,4 +1,4 @@
-# springboard-dom-manipulation-exercises
+# Springboard-dom-manipulation-exercises
 
 #### Given the following HTML:
 
